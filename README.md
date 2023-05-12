@@ -39,6 +39,7 @@
 ![9](https://github.com/JonathanBorda3/spring-gumball/assets/41019523/4d8dba76-f96f-48a0-8d0a-f40bccb02d06)
 
 ## running the project 
+![image](https://github.com/JonathanBorda3/spring-gumball/assets/41019523/4e0b4687-8b0f-4c9a-9715-14f846f238fb)
 
 ![12](https://github.com/JonathanBorda3/spring-gumball/assets/41019523/f554dd8f-7b20-462f-920b-829d134c029f)
 
